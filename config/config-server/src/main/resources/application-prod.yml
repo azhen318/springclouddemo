@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: https://github.com/azhen318/properties
+          searchPaths: properties
+          username: azhen318
+          password: yinzhenfeng-1314
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+server:
+    port: 8888
+
+#spring.cloud.config.server.git.uri=https://github.com/azhen318
+#spring.cloud.config.server.git.searchPaths=properties
+#spring.cloud.config.label=master
+#spring.cloud.config.server.git.username=azhen318
+#spring.cloud.config.server.git.password=yinzhenfeng-1314

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-client/config-client.iml" filepath="$PROJECT_DIR$/config/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-server/config-server.iml" filepath="$PROJECT_DIR$/config/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo20181027/demo20181027.iml" filepath="$PROJECT_DIR$/demo20181027/demo20181027.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo20181027/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/demo20181027/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo20181027/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/demo20181027/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo20181027/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/demo20181027/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo20181027/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/demo20181027/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo20181027/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/demo20181027/service-zuul/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin/zipkin.iml" filepath="$PROJECT_DIR$/zipkin/zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin/zipkin-hi/zipkin-hi.iml" filepath="$PROJECT_DIR$/zipkin/zipkin-hi/zipkin-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin/zipkin-miya/zipkin-miya.iml" filepath="$PROJECT_DIR$/zipkin/zipkin-miya/zipkin-miya.iml" />
+    </modules>
+  </component>
+</project>
